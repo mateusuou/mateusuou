@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou @mateusuou</h1>
-<h3 align="center">Um estudante apaixonado por Data science e Machine learning</h3>
+<h3 align="center">Estudante de Data science  e análise de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusuou&label=Profile%20views&color=0e75b6&style=flat" alt="mateusuou" /> </p>
 
-- 🌱 Estou aprendendo **Machine learning, Tensorflow, Python SQL**
+- 🌱 Estou aprendendo **Machine learning, Tensorflow, Python e SQL**
 
 - 📫 Para me contatar: **mateuswesley314@gmail.com**
 
